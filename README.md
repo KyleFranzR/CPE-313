@@ -1,2 +1,2 @@
 # CPE-313
-3rd year, 2nd sem, Data Science Course.
+3rd year, 2nd sem, Advanced Machine Learning Course.
